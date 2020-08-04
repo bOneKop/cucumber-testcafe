@@ -1,0 +1,17 @@
+{
+    "name": "cucumber-testcafe",
+    "version": "1.0.0",
+    "description": "cucumber-testcafe",
+    "main": "",
+    "scripts": {},
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "async": "^3.2.0",
+        "chai": "^4.2.0",
+        "cucumber": "^5.1.0",
+        "request": "^2.88.2",
+        "testcafe": "~1.8.5",
+        "testcafe-reporter-st-html": "^1.0.0"
+    }
+}
